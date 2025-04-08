@@ -1,4 +1,4 @@
-# Credit Card Financial Dashboard – Power BI
+# Credit Card Financial Analytics – Power BI
 
 ## 📌 Project Overview
 This **Power BI Financial Dashboard** provides actionable insights into **credit card transactions, customer spending behavior, and revenue trends**. The dashboard integrates **SQL Server data**, enabling stakeholders to analyze **key financial metrics, transaction trends, and customer segmentation** for **data-driven decision-making**.
